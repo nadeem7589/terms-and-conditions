@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Account Deletion Request</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #f7f9fc;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 60px auto;
+            padding: 30px 40px;
+            background: #fff;
+            border-radius: 16px;
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #2c3e50;
+            font-size: 32px;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        p, li {
+            font-size: 18px;
+            line-height: 1.7;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        strong {
+            color: #000;
+        }
+        .highlight {
+            background: #f2f3f5;
+            padding: 10px;
+            border-left: 4px solid #007BFF;
+            margin-top: 20px;
+            font-style: italic;
+        }
+        footer {
+            text-align: center;
+            margin-top: 40px;
+            color: #888;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Request Account Deletion</h1>
+
+        <p>If you wish to delete your account and associated data from our app, you can do so in two ways:</p>
+
+        <ul>
+            <li><strong>1. In-app Deletion:</strong><br>
+                Go to: <em>Settings → Delete → Confirm deletion</em>.<br>
+                Your account and data will be removed from our servers.
+            </li>
+
+            <li><strong>2. Request via Email:</strong><br>
+                Send an email to: <strong>nadexaisolutions@gmail.com</strong><br>
+                Subject: <strong>"Account Deletion Request"</strong><br>
+                Include your registered email in the request.
+            </li>
+        </ul>
+
+        <div class="highlight">
+            <strong>Data Retention:</strong><br>
+            Once your account is deleted, all associated personal data is removed permanently. Some data may be retained for legal or analytical purposes (non-personal).
+        </div>
+
+        <footer>
+            Thank you for using our services.<br>
+            &copy; 2025 NadexAi Solutions
+        </footer>
+    </div>
+</body>
+</html>
